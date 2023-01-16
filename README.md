@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @jiolovecoding2
+- 👋 Hi, I’m @JOHN
 - 👀 I’m a front-end web developer
 - 🌱 I’m currently learning html css and js.
 - 💞️ I’m looking to collaborate on any available project
